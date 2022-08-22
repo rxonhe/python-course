@@ -13,7 +13,7 @@ Basic knowledge like how to create a variable is taken as a prerequisite/learnt 
 - Map and casting functions
 - Types
 - Classes
-- Args and kwargs
+  - Args and kwargs
 - Inheritance
 - Decorators
     - Type error raising with custom decorator
