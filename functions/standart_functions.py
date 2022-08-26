@@ -1,12 +1,15 @@
 def f(x):
+    """Math function repr"""
     return 2 + x
 
 
 def add_2_numbers(a, b):
+    """Sum of two numbers"""
     return a + b
 
 
 def add_n_numbers(*args):
+    """Sum of n numbers"""
     total = 0
     for number in args:
         total += number
@@ -14,6 +17,7 @@ def add_n_numbers(*args):
 
 
 def add_n_numbers_v2(*args):
+    """Sum of n numbers"""
     return sum(args)
 
 
