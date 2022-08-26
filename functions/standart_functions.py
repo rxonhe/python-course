@@ -1,25 +1,12 @@
 def f(x):
-    """
-    :param x: a number
-    :return: 2 + x
-    """
     return 2 + x
 
 
 def add_2_numbers(a, b):
-    """
-    :param a:
-    :param b:
-    :return: a+b
-    """
     return a + b
 
 
 def add_n_numbers(*args):
-    """
-    :param args: n numbers 
-    :return: n_0 + n_1 + ... n_n
-    """
     total = 0
     for number in args:
         total += number
@@ -27,10 +14,6 @@ def add_n_numbers(*args):
 
 
 def add_n_numbers_v2(*args):
-    """
-    :param args: n numbers
-    :return: n_0 + n_1 + ... n_n
-    """
     return sum(args)
 
 
