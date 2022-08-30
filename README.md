@@ -7,10 +7,10 @@ Basic knowledge like how to create a variable is taken as a prerequisite/learnt 
 
 - Functions
   - Args
-  - Lambda Functions
 - Lists and dicts
     - Lists and dict comprehension
     - Functions inside dicts
+    - Lambda Functions
 - Map and casting functions
 - Types
 - Classes
