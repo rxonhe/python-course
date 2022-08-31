@@ -21,3 +21,9 @@ Basic knowledge like how to create a variable is taken as a prerequisite/learnt 
 - Date and datetime
 - Dataframe
 - Plotly
+
+## Read Sequence
+
+The read sequence purposed is defined through the filename according to the following pattern:
+
+```file_descripiton_XX.py```
