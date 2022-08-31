@@ -38,7 +38,7 @@ project
 │
 └───classes
 │   │   class_inheritance.py
-│   │   standart_class.py
+│   │   standart_class_09.py
 │   │   standart_types.py
 │   
 └───decorators
